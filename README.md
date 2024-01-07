@@ -23,10 +23,23 @@ This project was to showcase bump mapping on 2D textures in order for them to be
 <h2>Project walk-through:</h2>
 
 <p align="center"> 
-Network Diagram: <br/>
-<img src="https://github.com/George-Upton4/ActiveDirectoryLab/blob/main/media/Network_Diagram.drawio.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ocean Before: <br/>
+<img src="https://github.com/George-Upton4/BumpMapping/blob/main/before/Screen_Shot_2023-07-21_at_12.34.08_AM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Ocean After: <br/>
+<img src="https://github.com/George-Upton4/BumpMapping/blob/main/after/Screen_Shot_2023-07-21_at_12.33.30_AM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Brick Wall Before: <br/>
+<img src="https://github.com/George-Upton4/BumpMapping/blob/main/before/Screen_Shot_2023-07-19_at_9.38.04_PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Brick Wall After: <br/>
+<img src="https://github.com/George-Upton4/BumpMapping/blob/main/after/Screen_Shot_2023-07-19_at_9.38.44_PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
 <!--
  ```diff
 - text in red
